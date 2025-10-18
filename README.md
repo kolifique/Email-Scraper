@@ -19,7 +19,9 @@ A powerful Python-based web scraper that automatically extracts email addresses 
 
 # Clone and install
 git clone https://github.com/kolifique/Email-Scraper.git
+
 cd web-email-scraper
+
 pip install -r requirements.txt
 
 # Run the scraper
